@@ -1,4 +1,4 @@
-# sgp_app
+# Collage App
 
 A Flutter application in which you can chat with interclass colleagues, explore various clubs, Daily Upadates of Collage/University and Achievements of the College Students and faculties.
 
